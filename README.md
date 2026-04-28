@@ -18,7 +18,7 @@ AI QR Code Generator Pro is an interactive web application built using **Streaml
 
 ## 🖼️ Application Preview
 
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](screenshot.png)
 
 ---
 
